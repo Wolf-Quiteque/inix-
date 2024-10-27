@@ -1499,7 +1499,7 @@ ul.bringer-socials-list.stg-xl-gap {
 .bringer-hero-type01 .bringer-masked-content a.bringer-square-button {
     width: 112px;
     height: 112px;
-    border-radius: var(--bringer-default-br);
+    border-radius: var(--bringer-s-container-bg);
 }
 .bringer-hero-type01 .bringer-masked-content a span {
     width: 32px;
